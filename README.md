@@ -1,6 +1,6 @@
-# API-List 📝
+# 📚 API-List
 
-> 🛰️ A curated list of awesome APIs that can be played with on your next project.
+> 🛰️ A public list of awesome and free-to-use APIs to use in software and web development.
 
 - [Amazon Big Data](https://aws.amazon.com/public-data-sets/) - More data than you'll ever need
 
